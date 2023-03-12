@@ -53,5 +53,10 @@ module.exports = {
 }
 ```
 
-<++>
+# sass scss
+
+```
+p add -D sass scss
+```
+
 # element plus
